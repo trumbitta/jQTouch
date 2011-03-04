@@ -25,6 +25,7 @@ Tumbitta DataZombies jQTouch fork
 An experiment for my own purposes.
 Please notice that this may be really not useful to anyone else.
 
+- Added demos/swipeapp - A working example of swipe and slide, put together with the important aid of Marley23 <chris1sg@gmail.com>
 
 The DataZombies jQTouch fork
 =======
