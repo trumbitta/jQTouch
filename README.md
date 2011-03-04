@@ -1,3 +1,9 @@
+Tumbitta DataZombies jQTouch fork
+=======
+
+An experiment for my own purposes.
+Please notice that this may be really not useful to anyone else.
+
 The DataZombies jQTouch fork
 =======
 

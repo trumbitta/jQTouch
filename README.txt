@@ -19,6 +19,13 @@ If you use jQTouch, please consider supporting its development:
 http://bit.ly/support-jqt
 
 
+Tumbitta DataZombies jQTouch fork
+=======
+
+An experiment for my own purposes.
+Please notice that this may be really not useful to anyone else.
+
+
 The DataZombies jQTouch fork
 =======
 
